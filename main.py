@@ -41,7 +41,7 @@ def clean(s, c):
 def cpupick(modec, uchoice):
     r = None
     cs = None
-#Changes made to code.222
+    #cooment for git
     if modec == "easy":
         while r != "Win":
             cs = random.choice(rps[:3])
